@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #Jonathan Goohs and Ryan Serrato
-#Lab 8: Parts 1-3
+#Lab 8: Parts 1-4
 #CAPT Doherty SY402
 
 #imports
